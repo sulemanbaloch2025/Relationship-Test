@@ -1,4 +1,4 @@
-#Project for CS233 Foundations of Computation class
+# Project for CS233 Foundations of Computation class
 
 This is a Java program that can read in the set of pairs defining a binary relation over some set of strings and determine some properties of that relation.
 
